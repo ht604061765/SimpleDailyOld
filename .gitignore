@@ -1,0 +1,10 @@
+target/
+/bin/
+/WebContent/
+
+out/
+/.idea/
+/.gradle/
+*.log
+*.iml
+.gradle
