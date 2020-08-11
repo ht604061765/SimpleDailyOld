@@ -1,10 +1,10 @@
-package com.hunter.simpledaily;
+package com.hunter.simple.daily;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpledailyApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
